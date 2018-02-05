@@ -155,7 +155,7 @@ namespace Henk
             {
               new ForwardItemType
               {
-                Subject = "VERK",
+                Subject = "[VERK]",
                 ToRecipients = new[] {new EmailAddressType {EmailAddress = to}},
                 ReferenceItemId = new ItemIdType {ChangeKey = message.ItemId.ChangeKey, Id = message.ItemId.Id},
                 NewBodyContent = new BodyType {BodyType1 = BodyTypeType.HTML, Value = "Email is automatically forwarded by HENK."}

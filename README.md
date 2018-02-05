@@ -4,11 +4,11 @@
 
 Henk forwards invoice emails for Tomas. In his spare time he likes to chew bubblegum.
 
-[Download](https://github.com/coenvdwel/Henk/raw/master/Henk.exe)
+[![Download](http://apk.altervista.org/wp-content/uploads/2016/12/download-button-free-png-file.png)](https://github.com/coenvdwel/Henk/raw/master/Henk.exe)
 
 ## Definition
 
-Henk will look in the supplied Exchange account's Inbox for any email that has been sent by itself, to itself. It just finds the lonely conversions, so to say. This email will be forwarded to the supplied forwarder emailadress with the fixed subject "VERK", and then moved to the supplied folder for achiving.
+Henk will look in the supplied Exchange account's Inbox for any email that has been sent by itself, to itself. It just finds the lonely conversions, so to say. This email will be forwarded to the supplied forwarder emailadress with the fixed subject "[VERK]", and then moved to the supplied folder for achiving.
 
 ## Start
 
